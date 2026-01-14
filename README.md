@@ -1,5 +1,7 @@
 # t-SNE 기반 뇌 세포 분류 및 비지도 학습 분석
 
+For English version, please click here: [English Overview](https://github.com/sm9801/Brain_Cell_Identification_via_t-SNE_Feature_Selection/blob/main/README%20(EN).md)
+
 ## 개요
 본 프로젝트는 고차원 유전자 발현 데이터를 활용하여  
 **비지도 학습 및 준지도 학습 기법**으로 뇌 세포 유형을 분류합니다.
